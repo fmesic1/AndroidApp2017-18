@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spirala2FM17321</string>
+    <string name="dNadjiSliku">Find Image</string>
+    <string name="dPonisti">Cancel</string>
+    <string name="tNazivAutora">The name of the author</string>
+    <string name="tNazivKnjige">The name of the book</string>
+    <string name="dPovratak">Go back</string>
+    <string name="dAutori">Authors</string>
+    <string name="dKategorije">Categories</string>
+    <string name="dPretraga">Search</string>
+    <string name="dDodajKategoriju">Add Category</string>
+    <string name="dDodajKnjigu">Add Book</string>
+    <string name="dUpisiKnjigu">Register the book</string>
+    <string name="dDodajOnline">Add book ONLINE</string>
+</resources>

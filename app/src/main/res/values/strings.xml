@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spirala2FM17321</string>
+    <string name="dNadjiSliku">Nadji sliku</string>
+    <string name="dUpisiKnjigu">Upisi knjigu</string>
+    <string name="dPonisti">Ponisti</string>
+    <string name="tNazivAutora">Naziv autora</string>
+    <string name="tNazivKnjige">Naziv knjige</string>
+    <string name="dPovratak">Povratak</string>
+    <string name="dKategorije">Kategorije</string>
+    <string name="dPretraga">Pretraga</string>
+    <string name="dDodajKategoriju">Dodaj Kategoriju</string>
+    <string name="dDodajKnjigu">Dodaj Knjigu</string>
+    <string name="dAutori">Autori</string>
+    <string name="dDodajOnline">Dodaj Knjigu Online</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
